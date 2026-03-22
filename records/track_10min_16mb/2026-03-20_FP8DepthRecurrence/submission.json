@@ -1,0 +1,11 @@
+{
+  "author": "Alain Brown",
+  "github_id": "alainbrown",
+  "name": "FP8 + Depth Recurrence",
+  "blurb": "FP8 training for ~2x step throughput, depth-recurrent architecture for more effective depth within 16MB budget.",
+  "date": "TODO",
+  "val_loss": 0.0,
+  "val_bpb": 0.0,
+  "bytes_total": 0,
+  "bytes_code": 0
+}
